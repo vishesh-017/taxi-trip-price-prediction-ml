@@ -1,5 +1,3 @@
-# taxi-trip-price-prediction-ml
-Machine learning project to predict taxi trip prices using KNN regression with data preprocessing, visualization, and performance evaluation.
 # Taxi Trip Price Prediction Using Machine Learning
 
 This project predicts taxi trip prices based on trip distance, duration, and fare parameters using a K-Nearest Neighbors regression model.
